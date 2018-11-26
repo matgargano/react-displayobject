@@ -1,6 +1,6 @@
 {
   "name": "react-displayobject",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A simple react component used to display an object, prettily",
   "main": "dist/index.js",
   "devDependencies": {
